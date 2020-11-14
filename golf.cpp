@@ -1,10 +1,7 @@
 /*******************************************************
-Course		:	CO1302 Programming for Engineers
-Year		:	2020
+
 Name        :   Unique Golf
-Group No	:	9
-Index No	:	18_ENG_118 , 18_ENG_011 , 18_ENG_043 , 18_ENG_073
-Date		:	09-01-2020
+
 *******************************************************/
 
 /**Note: before compiling the project need to include graphic.h library files and should change the linker settings**/
